@@ -37,7 +37,8 @@ text-align: center;
 }
 
 .selected{
-  background: blue;
+  background: steelblue;
+  color: white;
 }
 
 #colorDisplay{
